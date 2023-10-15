@@ -1,5 +1,7 @@
-# LeetCode_SQL50
-
+<div align="center">
+    <img src="SQL_logo.png" alt="Logo" width="80" height="80">
+    <h1 align="center">LeetCode_SQL50</h1>
+</div>
 <details>
 <summary>Table of Content</summary>
 <ol>
