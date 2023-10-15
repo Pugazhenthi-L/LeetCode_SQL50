@@ -2,7 +2,7 @@
 
 ## Select 
 
-Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50
+Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50 /n
 select product_id from Products where low_fats = 'Y' and recyclable = 'Y';
 
 Q-2) https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50
