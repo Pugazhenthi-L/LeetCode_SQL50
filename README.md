@@ -1,5 +1,18 @@
 # LeetCode_SQL50
 
+<details>
+<summary>Table of Content</summary>
+<ol>
+    <li>
+        <a href="#select">Select</a>
+    </li>
+    <li>
+        <a href="#basic-joins">Basic of Joins</a>
+    </li>
+</ol>
+
+</details>
+
 ## Select 
 
 Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50 
@@ -21,3 +34,7 @@ Q-4) https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=
 Q-5) https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50
 
     select tweet_id from Tweets where length(content)>15;
+
+## Basic Joins
+
+Q-6) 
